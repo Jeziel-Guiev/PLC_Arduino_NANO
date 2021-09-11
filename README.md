@@ -1,1 +1,2 @@
-# PLC_Arduino_NANO
+`# PLC_Arduino_NANO
+El proye lo hice hace anios  cuando estaba en primer anio de universidad, mi fascinacion por los sistemas automaticos y con la llegada de los microncontroladoes mas accesibles para los estudiantes me  puse manos a la obra para hacer un mini PLC con arduino nano, lo estoy subiendo de manera gratuita para que otros que talves estan incursioando en el mundo de la electronica o ya estan les pueda ayudar o mejorarlo puedes  comunicarte conmigo por mi facebook que no lo uso mucho jjj puedes escribirme a mi correo nodeser.iot@gmail.com  si necesitas mas informacion o quieres charlar me encanta conocer personas afinas y e emocionadas por el desarrollo.`
